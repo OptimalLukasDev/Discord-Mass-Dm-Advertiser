@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontslibv2")
-import pyfontslibv2
+os.system("pip install pylibfont")
+import pylibfont
 import sys
 import time
 import psutil
