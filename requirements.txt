@@ -1,1 +1,1 @@
-pylibsql
+pylibsqlite
