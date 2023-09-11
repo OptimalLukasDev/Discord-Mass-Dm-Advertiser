@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibsqlite")
-import pylibsqlite
+# os.system("pip install pylibsqlite")
+# import pylibsqlite
 import sys
 import time
 import psutil
